@@ -19,8 +19,8 @@ header {
 }
 .name {
     float: left;
-    font-size-adjust: ;
-}
+    font-size-adjust:none 
+    }
  
   .quote {
     font-family: 'Satisfy', cursive;
