@@ -1,11 +1,11 @@
 body {
-    background: rgb(38, 116, 92);
+    background: rgb(172, 221, 206);
     max-width: 960px;
     color: #232323;
     margin: 0 auto;
 }
 header, footer {
-    background: #cfbebe;
+    background: #e6dada;
 }
 
 header {
@@ -49,21 +49,13 @@ header {
 footer {
     display: block;
 }
-footer {
-    box-sizing: border-box;
-    position: fixed;
-    height: 64px;
-    padding: 16px;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    text-align: center;
-    box-shadow: 0 -2px 4px -2px rgb(0, 5, 0);
-}
+
 footer a {
-    margin-right: 100px;
+    margin-right: 
+    100px;
     text-decoration: none;
 }
 main {
     padding: 30px;
 }
+
