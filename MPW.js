@@ -11,3 +11,4 @@ function updateClock() {
 setInterval(updateClock, 1000);
 
 updateClock();
+// Place holder script.. Not the final decision..
